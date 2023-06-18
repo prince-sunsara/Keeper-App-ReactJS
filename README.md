@@ -1,6 +1,6 @@
 # Note Keeper App
 
-This project if frontend project. i just made it for learning purpose.
+This project is frontend project. I just made it for learning purpose.
 
 ## Images of this app
 
